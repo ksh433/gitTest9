@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-hello git 로컬 develop
+hello git 로컬 develoP
 로컬 develop
 =======
 hello git 원격 develop
 원격 develop
->>>>>>> branch 'develop' of https://github.com/ksh433/gitTest9.git
+
